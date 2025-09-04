@@ -20,8 +20,14 @@ $personajes = [
         'categoria' => 'villanos',
         'imagen' => '../imagenes/lord.jpg'
     ],
+     [
+        'nombre' => 'madrastra fea',
+        'descripcion' => 'bromeas es un papucho',
+        'categoria' => 'amigp',
+        'imagen' => '../imagenes/fea.jpg'
+    ],
 
-    
+
     
    
     
