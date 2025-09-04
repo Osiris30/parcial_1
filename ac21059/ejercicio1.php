@@ -1,5 +1,5 @@
 <?php
-
+$categorias=["principal", "villano", "amigos de sherk","personaje secundarios" ]
 ?>
 
 <!DOCTYPE html>
