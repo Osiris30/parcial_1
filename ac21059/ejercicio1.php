@@ -1,5 +1,33 @@
 <?php
-$categorias=["principal", "villano", "amigos de sherk","personaje secundarios" ]
+$categorias=["principal"
+, "villano", "amigos de sherk","personaje secundarios" ];
+$personajes = [
+    [
+        'nombre' => 'Shrek',
+        'descripcion' => 'Es el ogroooo.',
+        'categoria' => 'principal',
+        'imagen' => '../imagenes/sherk.jpg'
+    ],
+    [
+        'nombre' => 'Burro',
+        'descripcion' => 'mesa que mas aplauda .',
+        'categoria' => 'amigo',
+        'imagen' => '../imagenes/burro.jpg'
+    ],
+    [
+        'nombre' => 'Lord Farquaad',
+        'descripcion' => 'pequeño villano',
+        'categoria' => 'villanos',
+        'imagen' => '../imagenes/lord.jpg'
+    ],
+
+    
+    
+   
+    
+];
+
+
 ?>
 
 <!DOCTYPE html>
